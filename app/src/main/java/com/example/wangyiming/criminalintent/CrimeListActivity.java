@@ -1,6 +1,6 @@
 package com.example.wangyiming.criminalintent;
 
-import android.app.Fragment;
+import android.support.v4.app.Fragment;
 
 /**
  * Created by WangYiming on 2015/1/7.
